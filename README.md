@@ -1,7 +1,7 @@
 # dotnet10-hosted-agent-mcp_microsoftlearn
 Exemplo de implementação de Hosted Agent em .NET 10 para orientar um usuário sobre certificações Microsoft, utilizando para isso o MCP Server do Microsoft Learn. Inclui configurações e Dockerfile para build do agent.
 
-Exemplo que serviu de base para a implementação deste Agent: **x**
+Exemplo que serviu de base para a implementação deste Agent: **https://github.com/microsoft-foundry/foundry-samples/tree/main/samples/csharp/hosted-agents/agent-framework/mcp-tools**
 
 Testes via portal do Foundry:
 
